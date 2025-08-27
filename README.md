@@ -1,5 +1,4 @@
 # SecTools
-****
 ## Scanner 
 Simple script for automating basic enumeration flow. 
 
